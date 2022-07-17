@@ -1,6 +1,6 @@
 # supermall
 ## description
-学习vue的练手项目，来自coderwhy!
+学习vue的练手项目，来自coderwhy，从这个项目中学习到了很多!
 
 ## Project setup
 ```
